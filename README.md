@@ -1,2 +1,2 @@
 # es6-practice
-hello
+hello# es6-practice
